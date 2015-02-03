@@ -1,6 +1,6 @@
 {
   "id": "HelloGoLang", 
-  "version": "0.0.1", 
+  "version": "0.0.3", 
   "authors": "Wade Wegner",
   "description": "Azure Go microservice",
   "name": "Hello Go Lang",

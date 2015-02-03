@@ -1,0 +1,10 @@
+{
+  "id": "HelloGoLang", 
+  "version": "0.0.1", 
+  "authors": "Wade Wegner",
+  "description": "Azure Go microservice",
+  "name": "Hello Go Lang",
+  "endpoints": {
+  	"apiDefinition": "/swagger/docs/1.0"
+  }
+}

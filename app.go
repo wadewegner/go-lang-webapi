@@ -1,3 +1,6 @@
+// Basic structure for web API from: 
+// http://www.freshblurbs.com/blog/2013/12/07/hello-web-golang.html
+
 package main
 
 import (
